@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(173, 220, 241);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #d5ffc2;
+}
+
+button {
+    background-color: #d5ffc2;
+    border-radius: 8px;
+    border-color: #d5ffc2;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.nti {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 15px;
+}
+
+.emil-bild {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 15px;
+}
+.bild-emil-sida2 {
+    display: block;
+    margin-left: 10%;
+    width: 23%;
+    border-radius: 15px;
+    position: absolute;
+}
+
+.bild-emil-sida1 {
+    display: block;
+    margin-left: 67%;
+    width: 23%;
+    border-radius: 15px;
+    position: absolute;
+}
+
+.mtb {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 15px;
+}
+
+.study-image {
+    margin-left: 67%;
+    margin-top: 10%;
+    width: 32%;
+    position: absolute;
+    border-radius: 15px;
+}
+
+ol {
+    margin-left: 23%;
+    margin-top: 2%;
+    margin-right: 23%;
+    font-size: 140%;
+}
+
+ul {
+    text-align: left;
+    margin-left: 17%;
+    font-size: 120%;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-right: 25%;
+    font-size: 140%;
+}
+
+h5 {
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 4%;
+    font-size: 120%;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #d5ffc2;
+}
+h4 {
+    position: absolute;
+}
